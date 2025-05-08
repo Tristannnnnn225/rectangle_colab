@@ -23,5 +23,7 @@ public class Rectangle {
     public boolean estCeUnCarre(){
         return largeur== hauteur;
     }
+
+    //j'ai modifié les variables et installer une private attribut
 }
 
